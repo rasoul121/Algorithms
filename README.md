@@ -9,7 +9,7 @@ Expectations
 Algorithms for making the calculator do arithmetic, we use answers
 Output to console, use character escapes
 Use primitive variables
-Exposure to iterating over array with FOR Loop
+Exposure to iterating over array with FOR Loop for sequences and series
 
 ---
 
